@@ -1,6 +1,0 @@
-# Auto detect text files and perform LF normalization
-* linguist-vendored
-*.css linguist-vendored=false
-*.php linguist-vendored=false
-*.css linguist-language=Python
-*.php linguist-language=Python
