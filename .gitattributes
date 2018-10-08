@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
+$ cat .gitattributes
+*.rb linguist-language=Java
 * text=auto
