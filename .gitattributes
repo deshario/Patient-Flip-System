@@ -2,5 +2,5 @@
 * linguist-vendored
 *.css linguist-vendored=false
 *.php linguist-vendored=false
-*.css linguist-language=Objective-C
-*.php linguist-language=Objective-C
+*.css linguist-language=Python
+*.php linguist-language=Python
