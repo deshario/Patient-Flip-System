@@ -1,3 +1,6 @@
 # Auto detect text files and perform LF normalization
 * linguist-vendored
-*.rb linguist-language=Java
+*.css linguist-vendored=false
+*.php linguist-vendored=false
+*.css linguist-language=Objective-C
+*.php linguist-language=Objective-C
